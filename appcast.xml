@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ribbon</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 23 Oct 2026 21:59:25 +0530</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon-1.0.zip" length="4151715" type="application/octet-stream" sparkle:edSignature="bFx5lbaVp3b2p50pY96JmsA0myYH6lD3td8QzluHxxGM3BJLM/PkbHITTJ3ZSj8ONKZyXSUW+Lr2d4U4XaALCg=="/>
+        </item>
+    </channel>
+</rss>
