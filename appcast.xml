@@ -3,6 +3,17 @@
     <channel>
         <title>Ribbon</title>
         <item>
+            <title>2.0</title>
+            <pubDate>Sat, 24 Oct 2026 13:35:00 +0530</pubDate>
+            <sparkle:version>2.0</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon-2.0.zip" length="4343327" type="application/octet-stream" sparkle:edSignature="lfPUGDhxnZ10s8XXyefylxnv6+kD6VNGnDE9f2FlXxvBFW1x4oFa9mY6pRUkX8pM/Ih3zWl9prxbeEoMHr7PBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon2.0-1.0.delta" sparkle:deltaFrom="1.0" length="551438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6l8cvKKd2DxD7w1KlP/9eIB0RZNj0iA8Oleuxm0BhreqvWgsSwCorXDSpT26b7bcwfrlugY8bCuY+GPjxvCGDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Fri, 23 Oct 2026 21:59:25 +0530</pubDate>
             <sparkle:version>1.0</sparkle:version>
