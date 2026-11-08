@@ -3,6 +3,21 @@
     <channel>
         <title>Ribbon</title>
         <item>
+            <title>3.7</title>
+            <pubDate>Sun, 08 Nov 2026 12:57:46 +0530</pubDate>
+            <sparkle:version>3.7</sparkle:version>
+            <sparkle:shortVersionString>3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon-3.7.zip" length="4560378" type="application/octet-stream" sparkle:edSignature="UnWbRylKJGkW0Nl+mLplMDuBef9fbEub2uXgFJ2HrUEmRC8/rl9Z7Yjh6ahA3Y5ir9vFU+7wJF4p9eMLR0edCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.7-3.6.delta" sparkle:deltaFrom="3.6" length="481290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="miUxLJcslxK0D3cwh4g4OKpu9nKLy5rTHsYWaWuezNiAcMKEgn1Nuv/MMh9quTwBjO8YHXJYYCfLosrD/7iRBA=="/>
+                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.7-3.5.delta" sparkle:deltaFrom="3.5" length="615934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="gstYHyWyfuWsD9gbtBaMu9W603Kr4jUNiLAFawoSZm2JRs1kOWBg7b4xcHh1kj9kVhD+WhePBEtLplRP9/kyDA=="/>
+                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.7-3.4.delta" sparkle:deltaFrom="3.4" length="632502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ojfXf9GN+EVJQRtpa/IL6+h/dcQanltv7MOUx9Nj+WGYqHnkCztgI/H3qGb/r53eTR1L5U2o6b4d7CgTBoP3Bg=="/>
+                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.7-3.3.delta" sparkle:deltaFrom="3.3" length="645030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="127ODR1Ux60uRzxQvVdDde039xwGjKYvUF6nKUU5KEOTfJFqWOtPD8WwA6RwMyPKrROu1wXt+MlniA9/KNzHCg=="/>
+                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.7-3.2.delta" sparkle:deltaFrom="3.2" length="656674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="GHzlctLbWll8tyK8DN9TJdo5frispzA2G1d1VmyoCCJtHsIKYKNdZBRzqmzVoWMU5VAGZ6uXcbV6qlfWoNicCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>3.6</title>
             <pubDate>Wed, 04 Nov 2026 17:18:19 +0530</pubDate>
             <sparkle:version>3.6</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.5-3.2.delta" sparkle:deltaFrom="3.2" length="363410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4weT9E2iCy8EyfwI/vUQpIQSke4u/DCNRYaOZeKcgdlUTvG++F8ejGYEQ4egGCcHPgUaR6UjxvBOrA+gtgxiBw=="/>
                 <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.5-3.1.delta" sparkle:deltaFrom="3.1" length="369662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="OfE8WvnuLzKMoebMROgVBKPB5rYFvb2E/NTff0Nn5JJ1aBw/SiytCTy+5/67LqHQBB/hFYcPTjRk9tBWNzt/DQ=="/>
                 <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.5-3.0.delta" sparkle:deltaFrom="3.0" length="406126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xymAZ2BZVwiOjJGpXvFmfbhgSlvzWVsDXVFD4ER1Vt8xoMbE8OedvXZm+8DffygXaa7udewDKzvyijioCVqsDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>3.4</title>
-            <pubDate>Tue, 03 Nov 2026 10:37:27 +0530</pubDate>
-            <sparkle:version>3.4</sparkle:version>
-            <sparkle:shortVersionString>3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon-3.4.zip" length="4416691" type="application/octet-stream" sparkle:edSignature="13fxDj4SaK6eIvTAnW+aQqIqblMJ4NxEe/J3oUTr5U6TsTkHA1J/5khPdBE8hK7JNIBoWqFWvXqEZcap9p0bAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.4-3.3.delta" sparkle:deltaFrom="3.3" length="236974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qpo5rhw2R5tXngxbcOBKVFIOYDsfdJ7ctxXrsYkViYcByILEmpIfSlP3d8XTb5y6hxa6LO+HcZYDfIkFnKRdDQ=="/>
-                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.4-3.2.delta" sparkle:deltaFrom="3.2" length="336850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="87iX4yjWxFmqQlGe5EibviPMf1RDUxtgxSJOWw+uURTN6YIsU3bkNHKIJVW37cfOvetKBOXY4VOBBLt2z37qDA=="/>
-                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.4-3.1.delta" sparkle:deltaFrom="3.1" length="336086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Unxgtnpz6VM9pSjrok9zZYgi+uelyQ9oOFDXaWChP2rT55SHudjc8Qmmp3chV0PSJGaWROim/e6i3HwqkLIkBw=="/>
-                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.4-3.0.delta" sparkle:deltaFrom="3.0" length="383238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="H8Oe6SSR4y5+PlijrUxSySaONG/x7D3XtJ9NwVk2K4XD6dXAYIzZv0LdJQXPmEU3+60v/D8eVhEDSEZtFdfvAw=="/>
-                <enclosure url="https://chethankumar.github.io/ribbon-releases/Ribbon3.4-2.9.delta" sparkle:deltaFrom="2.9" length="410206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862416" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="led+bg8LE/o/t6QROurKQUnFVHV3TxmwydEPmhCiT+JN7H/01f0nyeQaGocdciqBZppqqBnwaGiUvydvCu4rBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
